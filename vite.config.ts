@@ -9,6 +9,9 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
+  preview: {
+    port: 8080,
+  },
   plugins: [
     react(),
     mode === 'development' &&
@@ -20,13 +23,13 @@ export default defineConfig(({ mode }) => ({
     },
   },
   build: {
+    outDir: 'dist',
+    assetsDir: 'assets',
     rollupOptions: {
       output: {
         manualChunks: undefined,
       },
     },
   },
-  preview: {
-    historyApiFallback: true,
-  },
+  base: '/',
 }));
