@@ -1,0 +1,126 @@
+{
+  "brand": {
+    "name": "Sri Gold Pearl Mess",
+    "whatsapp": "+919884050857",
+    "colors": {
+      "primary": "#D4AF37",
+      "secondary": "#FFFFFF",
+      "accent": "#B8860B"
+    },
+    "logo": "/gp_logo.png"
+  },
+  "copy": {
+    "aboutUs": {
+      "title": "About Us",
+      "content": "Welcome to Sri Gold Pearl Mess, where tradition meets taste. We take pride in serving authentic South Indian meals, prepared with the freshest ingredients and a touch of love."
+    },
+    "footer": {
+      "workingHours": {
+        "title": "Working Hours",
+        "hours": "9:00 AM – 9:00 PM daily"
+      },
+      "delivery": {
+        "title": "Delivery Details",
+        "areas": "Chennai, Tambaram, Velachery",
+        "charge": "₹50 per order"
+      }
+    },
+    "orderMessage": {
+      "greeting": "Hello! I'd like to place an order:",
+      "itemFormat": "{quantity}x {name} - ₹{price}",
+      "totalFormat": "Total: ₹{total}"
+    }
+  },
+  "menu": {
+    "breakfast": [
+      {
+        "id": "idly",
+        "name": "Idly (1 no)",
+        "description": "Served with tomato chutney, coconut chutney, and onion sambar.",
+        "price": 15,
+        "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": "Dosa",
+        "name": "Dosa (1 no)",
+        "description": "Served with tomato chutney, coconut chutney, and onion sambar.",
+        "price": 15,
+        "image": "https://media.timeout.com/images/105187907/1920/1080/image.webp"
+      },
+      {
+        "id": "Masala Dosa",
+        "name": "Masala Dosa (1 no)",
+        "description": "Served with tomato chutney, coconut chutney, and onion sambar.",
+        "price": 15,
+        "image": "https://apollosugar.com/wp-content/uploads/2018/12/Masala-Dosa-1024x683.jpg"
+      },
+      {
+        "id": "pongal",
+        "name": "Pongal",
+        "description": "Served with coconut chutney and onion sambar.",
+        "price": 20,
+        "image": "https://thumbs.dreamstime.com/z/ven-pongal-famous-south-indian-breakfast-served-banana-leaf-270630914.jpg?ct=jpeg"
+      },
+      {
+        "id": "Medu Vada",
+        "name": "Medu Vada (1 no)",
+        "description": "Crispy vada served with chutney and sambar.",
+        "price": 15,
+        "image": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprodarticles%2Fwibkfpzlop.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D900%26q%3D75&w=3840&q=75"
+      },
+      {
+        "id": "poori",
+        "name": "Poori with Potato Masala (2 no)",
+        "description": "Fluffy pooris with flavorful potato masala.",
+        "price": 40,
+        "image": "https://img-global.cpcdn.com/recipes/765f5b0b4d68e0cf/1280x1280sq70/photo.webp"
+      }
+    ],
+    "lunch": [
+      {
+        "id": "meals",
+        "name": "Meals (Limited)",
+        "description": "Sambar, rasam, poriyal, spinach kootu, curd, and pickle.",
+        "price": 80,
+        "image": "https://dukaan.b-cdn.net/700x700/webp/media/9b9e897d-1e05-4200-af5a-9ce6f1faa452.jpg"
+      },
+      {
+        "id": "Thali Meals",
+        "name": "Thali Meals (Limited)",
+        "description": "Sambar, rasam, poriyal, spinach kootu, curd, and pickle.",
+        "price": 80,
+        "image": "https://imgk.timesnownews.com/story/veg-thali.gif?tr=w-600,h-450,fo-auto"
+      },
+      {
+        "id": "chapati",
+        "name": "Chappati (1 no)",
+        "description": "Served with chenna kuruma, paneer kuruma, or mushroom gravy.",
+        "price": 20,
+        "image": "https://www.vestaengineers.net/wp-content/uploads/2024/02/blog14.jpeg"
+      }
+    ],
+    "dinner": [
+      {
+        "id": "idiyappam",
+        "name": "Idiyappam (1 no)",
+        "description": "Served with veg paaya or chenna kuruma.",
+        "price": 20,
+        "image": "https://www.awesomecuisine.com/wp-content/uploads/2008/02/idiyappam.jpg"
+      },
+      {
+        "id": "Veg Biriyani",
+        "name": "Veg Biriyani (1 no)",
+        "description": "Served with veg paaya or chenna kuruma.",
+        "price": 20,
+        "image": "https://pipingpotcurry.com/wp-content/uploads/2019/09/Vegetable-Biryani-Instant-Pot-Piping-Pot-Curry-3-1.jpg"
+      },
+      {
+        "id": "parotta",
+        "name": "Parotta (2)",
+        "description": "Served with chenna kuruma.",
+        "price": 60,
+        "image": "https://adm.komalasrestaurants.com//Dynamic/Products/493/Images/PAROTTA%20PLATE.jpg"
+      }
+    ]
+  }
+}
